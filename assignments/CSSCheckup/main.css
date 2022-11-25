@@ -1,0 +1,42 @@
+
+
+
+h1 { 
+    color:purple;
+    margin-bottom:32px ;
+    margin-top: 0x;
+}
+
+body {
+    color: rgb(10, 10, 10);
+    background-color: rgb(254, 207, 177);
+    font-family: "BungeeSpice", cursive;
+}
+
+
+#title {
+    margin: 0,0,-1,0;
+    color:purple
+    h1: purple
+    
+}
+
+
+#Things {
+    color:purple
+
+}
+
+
+
+img { 
+    border: solid purple;
+    height: 250px;
+    width: 250px;
+    
+}
+
+#list {
+    color: black;
+
+}

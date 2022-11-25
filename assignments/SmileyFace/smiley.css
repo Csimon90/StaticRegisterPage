@@ -1,0 +1,113 @@
+.wrapper {
+    margin: 5px;
+}
+
+.face {
+    width: 75px;
+    height: 75px;
+    border:solid 2px black;
+    background-color: yellow;
+    /* border-radius is how large you want your circle/shape to be */
+    border-radius: 50px;
+    }
+
+.eye {
+    width: 6px;
+    height: 6px;
+    border: solid 1px black;
+    border-radius: 3px;
+    /* z-index defines the order of overlapping HTML elements 
+    is assigned a layer number with 1 being the bottom layer.
+    must ALWAYS be paired with with positioned element 
+    (aka) position: relative; position: absolute; or position: fixed
+    */
+    z-index: 1;
+    position: relative;
+    background-color: white;
+    }
+    
+.left {
+    left: 32px;
+    top: 26px;
+}
+
+.right {
+    left: 54px;
+    top: 18px;
+  }
+
+  .mouth {
+    width: 30px;
+    height: 10px;
+    border: solid 1px black;
+    border-radius: 0 0 45px 45px;
+    margin: 16px;
+    position: relative;
+    top: 1em;
+    left: 1em;
+    background-color: black;
+  }
+
+
+  /* 
+  notice here that for two pupils there is only one set of id code for the pair. 
+  this is so that the move and operate as a single unit.
+  if you wanted to move each pupil independently you new two separate ids and codes
+  to control individual movement.
+  */
+  .pupil {
+    width: 2px;
+    height: 2px;
+    border: solid 1px black;
+    border-radius: 2px;
+    position: relative;
+    top: 1px;
+    left: 1.5px;
+    background-color: black;
+  }
+  /* do not touch any thing above this line. this code is working and is the basis for the code beneath. */
+
+.brow {
+  width: 10px;
+  height: 2px;
+  background-color: black;
+  position: relative;
+
+}
+
+.r {
+  left: 54px;
+  top: 18px;
+
+}
+
+.l{
+  left: 32px;
+  top: 23px;
+
+}
+
+.pompom{
+width: 30px;
+height: 30px;
+background-color: goldenrod;
+border-radius: 100%;
+position: relative;
+top: 15px;
+left: 25px;
+
+
+}
+
+
+.hat{
+    width: 10px;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 50px solid red;
+    position: relative;
+    top: 15px;
+    left: 5px;
+  }
+
