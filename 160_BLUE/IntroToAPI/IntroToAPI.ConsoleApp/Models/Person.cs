@@ -1,6 +1,5 @@
 using Newtonsoft.Json;
 
-namespace IntroToAPI.ConsoleApp.Models;
 
 public class Person
 {
