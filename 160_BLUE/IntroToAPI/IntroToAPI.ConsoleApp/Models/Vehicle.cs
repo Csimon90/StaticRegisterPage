@@ -1,7 +1,7 @@
 using Newtonsoft.Json;
 
 
-    public class Vehicles
+    public class Vehicle
     {
          [JsonProperty("cargo_capacity")]
     public string CargoCapacity { get; set; }
