@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xWtwYfzkTOa02ddicLiTZNEiHMetaN97QZcPFUPEpk1LNa62toQ/3Xl5bgHdeVl3wANYeNCJjiaV7lab80y54A==",
+  "dgSpecHash": "Q3BCca1pdPaJSJVmhLkpG1bIaJpbk1hs7ZMsGxJeaPtiuv5tQNucDWMJCAQivBIaAjEAgqihq+Qn2xLGJx5uIg==",
   "success": true,
-  "projectFilePath": "C:\\efa160\\codingFoundations\\160_BLUE\\IntroToAPI\\IntroToAPI.ConsoleApp\\IntroToAPI.ConsoleApp.csproj",
+  "projectFilePath": "C:\\efa160\\codingFoundations\\160_BLUE\\IntroToAPI\\IntrotoApi_Refactor\\IntrotoApi_Refactor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Caitlin\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\Caitlin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

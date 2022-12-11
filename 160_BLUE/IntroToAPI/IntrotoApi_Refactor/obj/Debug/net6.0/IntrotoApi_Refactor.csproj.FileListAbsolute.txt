@@ -1,0 +1,5 @@
+C:\efa160\codingFoundations\160_BLUE\IntroToAPI\IntrotoApi_Refactor\obj\Debug\net6.0\IntrotoApi_Refactor.csproj.AssemblyReference.cache
+C:\efa160\codingFoundations\160_BLUE\IntroToAPI\IntrotoApi_Refactor\obj\Debug\net6.0\IntrotoApi_Refactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\efa160\codingFoundations\160_BLUE\IntroToAPI\IntrotoApi_Refactor\obj\Debug\net6.0\IntrotoApi_Refactor.AssemblyInfoInputs.cache
+C:\efa160\codingFoundations\160_BLUE\IntroToAPI\IntrotoApi_Refactor\obj\Debug\net6.0\IntrotoApi_Refactor.AssemblyInfo.cs
+C:\efa160\codingFoundations\160_BLUE\IntroToAPI\IntrotoApi_Refactor\obj\Debug\net6.0\IntrotoApi_Refactor.csproj.CoreCompileInputs.cache

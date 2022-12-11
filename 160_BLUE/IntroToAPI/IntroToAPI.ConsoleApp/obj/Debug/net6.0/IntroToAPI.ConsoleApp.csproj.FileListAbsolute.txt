@@ -13,3 +13,7 @@ C:\efa160\codingFoundations\160_BLUE\IntroToAPI\IntroToAPI.ConsoleApp\obj\Debug\
 C:\efa160\codingFoundations\160_BLUE\IntroToAPI\IntroToAPI.ConsoleApp\obj\Debug\net6.0\IntroToAPI.ConsoleApp.pdb
 C:\efa160\codingFoundations\160_BLUE\IntroToAPI\IntroToAPI.ConsoleApp\obj\Debug\net6.0\IntroToAPI.ConsoleApp.genruntimeconfig.cache
 C:\efa160\codingFoundations\160_BLUE\IntroToAPI\IntroToAPI.ConsoleApp\obj\Debug\net6.0\ref\IntroToAPI.ConsoleApp.dll
+C:\efa160\codingFoundations\160_BLUE\IntroToAPI\IntroToAPI.ConsoleApp\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\efa160\codingFoundations\160_BLUE\IntroToAPI\IntroToAPI.ConsoleApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\efa160\codingFoundations\160_BLUE\IntroToAPI\IntroToAPI.ConsoleApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\efa160\codingFoundations\160_BLUE\IntroToAPI\IntroToAPI.ConsoleApp\obj\Debug\net6.0\IntroToAPI.ConsoleApp.csproj.CopyComplete

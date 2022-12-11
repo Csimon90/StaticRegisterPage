@@ -26,7 +26,7 @@ if (response.IsSuccessStatusCode)
 
         if (vehResponse.IsSuccessStatusCode)
         {
-            var vehicle = await vehResponse.Content.ReadAsAsync<Vehicles>();
+            var vehicle = await vehResponse.Content.ReadAsAsync<Vehicle>();
             WriteLine($"{vehicle.Name} - {vehicle.CargoCapacity}");
         }
     }
